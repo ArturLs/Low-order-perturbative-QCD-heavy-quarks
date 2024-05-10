@@ -12,6 +12,13 @@ The low-order perturbative Quantum Chromodynamics (QCD) theory describes the int
 
 ``g++ -g -o `root-config --cflags` `lhapdf-config --cflags` `gsl-config --cflags` res.cpp `root-config --glibs` `lhapdf-config --libs` `gsl-config --libs` -I ./ -lstdc++ -lm -lMathMore -lLHAPDF -o res && ./res``
 
+ - If you want to change the quark:
+
+ If you want to change the quark, simply modify the first argument, `double params[pdim] = {4.5, pT};`, in line 364. For example: 
+ 
+  `` Bottom: 4.5 GeV  Charm: 1.27 GeV   Strange: 127 GeV``
+
+
 -----------------------------------------------------------------------------
 ### Simulation<br><br>
 
