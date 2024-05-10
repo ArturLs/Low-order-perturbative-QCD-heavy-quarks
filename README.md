@@ -16,7 +16,7 @@ The low-order perturbative Quantum Chromodynamics (QCD) theory describes the int
 
  If you want to change the quark, simply modify the first argument, `double params[pdim] = {4.5, pT};`, in line 364. For example: 
  
-  `` Bottom: 4.5 GeV  Charm: 1.27 GeV   Strange: 127 GeV``
+  `` Bottom: 4.5 GeV  Charm: 1.27 GeV ``
 
 
 -----------------------------------------------------------------------------
