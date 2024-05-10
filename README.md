@@ -20,4 +20,4 @@ The low-order perturbative Quantum Chromodynamics (QCD) theory describes the int
 
 
 
-![Screenshot from 2023-05-18 23-34-54](https://github.com/ArturLs/Cherenkov-Detector/assets/102261011/3abfa000-b683-4e23-850b-be6bacfd2313)
+![Screenshot from 2023-05-18 23-34-54](https://github.com/ArturLs/Low-order-perturbative-QCD-heavy-quarks/blob/main/Bottom.png)
